@@ -1,3 +1,5 @@
+.DS_Store
+**/.DS_Store
 /node_modules
 /public/hot
 /public/storage
@@ -9,3 +11,8 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+
+bootstrap/cache/*.php
+storage/framework/views/*.php
+storage/framework/cache/data/*
+storage/framework/sessions/*
